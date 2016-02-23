@@ -6,6 +6,8 @@
 
 - [Angular](https://angularjs.org/) ([ngResource](https://www.npmjs.com/package/ng-resource), [ui-router](https://github.com/angular-ui/ui-router))
 - [Angular Material](https://material.angularjs.org/latest/)
+- [NodeJS](https://nodejs.org/en/)
+- [GulpJS](http://gulpjs.com/)
 
 ## How to use
 
