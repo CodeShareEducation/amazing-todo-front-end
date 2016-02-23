@@ -1,0 +1,38 @@
+{
+  "name": "amazing-todo-front-end",
+  "version": "0.1.0",
+  "description": "Front-end application to consume Amazing TODO API",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeShareEducation/amazing-todo-front-end.git"
+  },
+  "keywords": [
+    "angular",
+    "angular-material",
+    "front-end",
+    "gulp",
+    "restful"
+  ],
+  "author": "Wendell Adriel <wendelladriel.ti@gmail.com> (http://wendelladriel.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodeShareEducation/amazing-todo-front-end/issues"
+  },
+  "homepage": "https://github.com/CodeShareEducation/amazing-todo-front-end#readme",
+  "dependencies": {
+    "angular": "^1.5.0",
+    "angular-animate": "^1.5.0",
+    "angular-aria": "^1.5.0",
+    "angular-material": "^1.0.5",
+    "angular-resource": "^1.5.0",
+    "angular-ui-router": "^0.2.18"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-webserver": "^0.9.1"
+  }
+}
