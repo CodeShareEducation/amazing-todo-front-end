@@ -1,5 +1,5 @@
 (function() {
   'use strict';
 
-  angular.module('app', ['ngMaterial', 'ngResource', 'ui.router']);
+  angular.module('app', ['ngMaterial', 'ui.router', 'restangular', 'satellizer']);
 })();

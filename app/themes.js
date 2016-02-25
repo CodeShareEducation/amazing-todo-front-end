@@ -8,7 +8,7 @@
 
   function themesConfig($mdThemingProvider) {
     $mdThemingProvider.theme('default')
-      .primaryPalette('blue')
+      .primaryPalette('deep-purple')
       .accentPalette('deep-orange')
       .warnPalette('red')
       .backgroundPalette('grey');
